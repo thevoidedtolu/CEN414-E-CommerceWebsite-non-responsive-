@@ -1,0 +1,134 @@
+<div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/w3.jpg" alt="" />
+                <p>Nixon Black Watch</p>
+                <div class="price-qty">
+                    <p class="price">$200</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/w4.png" alt="" />
+                <p>Nixon Gold Watch</p>
+                <div class="price-qty">
+                    <p class="price">$230</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/time-teller.png" alt="" />
+                <p>Nixon Gold Time-Teller limited edition</p>
+                <div class="price-qty">
+                    <p class="price">$450</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/rolllyy.png" alt="" />
+                <p>Rolex Watch</p>
+                <div class="price-qty">
+                    <p class="price">$300</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/tyt wheels.jfif" alt="" />
+                <p>Toyota Wheels</p>
+                <div class="price-qty">
+                    <p class="price">$120</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/wineglass.png" alt="" />
+                <p>Wine Glass (set of 12)</p>
+                <div class="price-qty">
+                    <p class="price">$50</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/tag-heuer.png" alt="" />
+                <p>Tag Heuer Watch</p>
+                <div class="price-qty">
+                    <p class="price">$400</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/swiss.png" alt="" />
+                <p>Swiss Watch</p>
+                <div class="price-qty">
+                    <p class="price">$230</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/washing-machines.png" alt="" />
+                <p>Washing Machine</p>
+                <div class="price-qty">
+                    <p class="price">$350</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/casio.jpg" alt="" />
+                <p>Casio Digital Watch</p>
+                <div class="price-qty">
+                    <p class="price">$210</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/wig.png" alt="" />
+                <p>Black Wig</p>
+                <div class="price-qty">
+                    <p class="price">$90</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <img src="/images/waistcoast3.jpg" alt="" />
+                <p>Golden Morn</p>
+                <div class="price-qty">
+                    <p class="price">$50</p>
+                    <div class="qty">
+                        <button class="reduce-qty">-</button><input class="qty" value="0" type="number"><button class="increase-qty">+</button>
+                    </div>
+                </div>
+                <button class="addtocart">Add To Cart</button>
+            </div>
